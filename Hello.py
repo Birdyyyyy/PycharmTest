@@ -1,2 +1,1 @@
-a new hello.py file
-
+print("new file pushed by Yuan")
