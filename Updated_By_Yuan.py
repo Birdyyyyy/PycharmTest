@@ -1,1 +1,1 @@
-print("It is a new funtion!")
+print("It is a new funtion!!")
